@@ -1,2 +1,2 @@
 # scripts
-A self-made scripts repo
+A self-made scripts repo, only for windows.
